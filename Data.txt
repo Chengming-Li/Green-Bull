@@ -1,0 +1,505 @@
+{'Ticker': 'MMM', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 62907158528, 'earningsGrowth': -0.947, 'environmentScore': 12.33, 'socialScore': 13.56, 'governanceScore': 7.72}
+{'Ticker': 'AOS', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 7574130176, 'earningsGrowth': 0.11, 'environmentScore': 7.12, 'socialScore': 10.84, 'governanceScore': 6.24}
+{'Ticker': 'ABT', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 176715612160, 'earningsGrowth': 0.727, 'environmentScore': 3.03, 'socialScore': 13.59, 'governanceScore': 8.36}
+{'Ticker': 'ABBV', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 252732211200, 'earningsGrowth': 0.214, 'environmentScore': 1.12, 'socialScore': 16.77, 'governanceScore': 9.95}
+{'Ticker': 'ABMD', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 11332493312, 'earningsGrowth': 0, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'ACN', 'sector': 'Technology', 'country': 'Ireland', 'marketCap': 159362203648, 'earningsGrowth': 0.184, 'environmentScore': 0.29, 'socialScore': 4.58, 'governanceScore': 4.83}
+{'Ticker': 'ATVI', 'sector': 'Communication Services', 'country': 'United States', 'marketCap': 56427802624, 'earningsGrowth': -0.68, 'environmentScore': 0.15, 'socialScore': 12.48, 'governanceScore': 6.31}
+{'Ticker': 'ADM', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 46739656704, 'earningsGrowth': 0.73, 'environmentScore': 18.23, 'socialScore': 13.16, 'governanceScore': 5.01}
+{'Ticker': 'ADBE', 'sector': 'Technology', 'country': 'United States', 'marketCap': 133863309312, 'earningsGrowth': -0.04, 'environmentScore': 1.89, 'socialScore': 5.93, 'governanceScore': 4.64}
+{'Ticker': 'AAP', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 10134125568, 'earningsGrowth': -0.131, 'environmentScore': 0.1, 'socialScore': 9.17, 'governanceScore': 3.7}
+{'Ticker': 'AMD', 'sector': 'Technology', 'country': 'United States', 'marketCap': 90305060864, 'earningsGrowth': -0.534, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'AES', 'sector': 'Utilities', 'country': 'United States', 'marketCap': 15569541120, 'earningsGrowth': 0, 'environmentScore': 16.48, 'socialScore': 11.2, 'governanceScore': 6.47}
+{'Ticker': 'AFL', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 37365194752, 'earningsGrowth': 0.333, 'environmentScore': 0.47, 'socialScore': 7.26, 'governanceScore': 9.57}
+{'Ticker': 'A', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 37212352512, 'earningsGrowth': 0.279, 'environmentScore': 0.34, 'socialScore': 8.65, 'governanceScore': 6.34}
+{'Ticker': 'APD', 'sector': 'Basic Materials', 'country': 'United States', 'marketCap': 51574923264, 'earningsGrowth': 0.093, 'environmentScore': 5.94, 'socialScore': 1.28, 'governanceScore': 3.59}
+{'Ticker': 'AKAM', 'sector': 'Technology', 'country': 'United States', 'marketCap': 12713380864, 'earningsGrowth': -0.213, 'environmentScore': 1.93, 'socialScore': 10.35, 'governanceScore': 7.35}
+{'Ticker': 'ALK', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 5302580224, 'earningsGrowth': -0.652, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'ALB', 'sector': 'Basic Materials', 'country': 'United States', 'marketCap': 27814623232, 'earningsGrowth': -0.044, 'environmentScore': 15.53, 'socialScore': 5.54, 'governanceScore': 7.73}
+{'Ticker': 'ARE', 'sector': 'Real Estate', 'country': 'United States', 'marketCap': 21464750080, 'earningsGrowth': -0.361, 'environmentScore': 2.98, 'socialScore': 6.27, 'governanceScore': 5.54}
+{'Ticker': 'ALGN', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 15748957184, 'earningsGrowth': -0.427, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'ALLE', 'sector': 'Industrials', 'country': 'Ireland', 'marketCap': 7900149760, 'earningsGrowth': -0.008, 'environmentScore': 12.75, 'socialScore': 4.54, 'governanceScore': 6.3}
+{'Ticker': 'LNT', 'sector': 'Utilities', 'country': 'United States', 'marketCap': 12277809152, 'earningsGrowth': 0.105, 'environmentScore': 10.04, 'socialScore': 5.65, 'governanceScore': 6.18}
+{'Ticker': 'ALL', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 35798003712, 'earningsGrowth': 0, 'environmentScore': 1.44, 'socialScore': 7.85, 'governanceScore': 9.94}
+{'Ticker': 'GOOGL', 'sector': 'Communication Services', 'country': 'United States', 'marketCap': 1263429615616, 'earningsGrowth': -0.113, 'environmentScore': 1.66, 'socialScore': 11.1, 'governanceScore': 11.39}
+{'Ticker': 'GOOG', 'sector': 'Communication Services', 'country': 'United States', 'marketCap': 1263252537344, 'earningsGrowth': -0.113, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'MO', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 81451089920, 'earningsGrowth': -0.577, 'environmentScore': 4.66, 'socialScore': 12.98, 'governanceScore': 6.35}
+{'Ticker': 'AMZN', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 1089054441472, 'earningsGrowth': 0, 'environmentScore': 5.59, 'socialScore': 14.8, 'governanceScore': 9.89}
+{'Ticker': 'AMCR', 'sector': 'Consumer Cyclical', 'country': 'Switzerland', 'marketCap': 16140977152, 'earningsGrowth': -0.56, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'AEE', 'sector': 'Utilities', 'country': 'United States', 'marketCap': 19700789248, 'earningsGrowth': 0, 'environmentScore': 14.11, 'socialScore': 9.84, 'governanceScore': 5.49}
+{'Ticker': 'AAL', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 8519480832, 'earningsGrowth': 21.978, 'environmentScore': 11.53, 'socialScore': 12.31, 'governanceScore': 5.26}
+{'Ticker': 'AEP', 'sector': 'Utilities', 'country': 'United States', 'marketCap': 42907062272, 'earningsGrowth': -0.113, 'environmentScore': 12.84, 'socialScore': 7.54, 'governanceScore': 5.43}
+{'Ticker': 'AXP', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 102573015040, 'earningsGrowth': -0.082, 'environmentScore': 0.05, 'socialScore': 8.37, 'governanceScore': 9.95}
+{'Ticker': 'AIG', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 38560694272, 'earningsGrowth': 34.833, 'environmentScore': 1.87, 'socialScore': 9.67, 'governanceScore': 13.79}
+{'Ticker': 'AMT', 'sector': 'Real Estate', 'country': 'United States', 'marketCap': 86496755712, 'earningsGrowth': 0.182, 'environmentScore': 2.36, 'socialScore': 3.56, 'governanceScore': 5.02}
+{'Ticker': 'AWK', 'sector': 'Utilities', 'country': 'United States', 'marketCap': 23348594688, 'earningsGrowth': 0.053, 'environmentScore': 13.1, 'socialScore': 9.08, 'governanceScore': 5.58}
+{'Ticker': 'AMP', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 27892766720, 'earningsGrowth': 0.355, 'environmentScore': 2.57, 'socialScore': 7.22, 'governanceScore': 12.82}
+{'Ticker': 'ABC', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 29140475904, 'earningsGrowth': 0.371, 'environmentScore': 1.32, 'socialScore': 5.64, 'governanceScore': 5.36}
+{'Ticker': 'AME', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 26002003968, 'earningsGrowth': 0.22, 'environmentScore': 8.65, 'socialScore': 8.51, 'governanceScore': 6.92}
+{'Ticker': 'AMGN', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 134449561600, 'earningsGrowth': 2.026, 'environmentScore': 0.69, 'socialScore': 13.46, 'governanceScore': 7.89}
+{'Ticker': 'APH', 'sector': 'Technology', 'country': 'United States', 'marketCap': 39883223040, 'earningsGrowth': 0.279, 'environmentScore': 8.04, 'socialScore': 5.49, 'governanceScore': 8.04}
+{'Ticker': 'ADI', 'sector': 'Technology', 'country': 'United States', 'marketCap': 70325985280, 'earningsGrowth': 0.067, 'environmentScore': 10.13, 'socialScore': 7.74, 'governanceScore': 5.9}
+{'Ticker': 'ANSS', 'sector': 'Technology', 'country': 'United States', 'marketCap': 17693231104, 'earningsGrowth': 0.066, 'environmentScore': 0.86, 'socialScore': 7.32, 'governanceScore': 4.86}
+{'Ticker': 'ANTM', 'sector': 0, 'country': 0, 'marketCap': 0, 'earningsGrowth': 0, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'AON', 'sector': 'Financial Services', 'country': 'Ireland', 'marketCap': 57120870400, 'earningsGrowth': 0.404, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'APA', 'sector': 'Energy', 'country': 'United States', 'marketCap': 13038342144, 'earningsGrowth': 2.313, 'environmentScore': 21.98, 'socialScore': 8.88, 'governanceScore': 7.96}
+{'Ticker': 'AAPL', 'sector': 'Technology', 'country': 'United States', 'marketCap': 2223877390336, 'earningsGrowth': -0.077, 'environmentScore': 0.65, 'socialScore': 6.86, 'governanceScore': 9.18}
+{'Ticker': 'AMAT', 'sector': 'Technology', 'country': 'United States', 'marketCap': 64368320512, 'earningsGrowth': -0.011, 'environmentScore': 3.84, 'socialScore': 2.62, 'governanceScore': 5.1}
+{'Ticker': 'APTV', 'sector': 'Consumer Cyclical', 'country': 'Ireland', 'marketCap': 22051235840, 'earningsGrowth': 0, 'environmentScore': 2.49, 'socialScore': 3.94, 'governanceScore': 5.24}
+{'Ticker': 'ANET', 'sector': 'Technology', 'country': 'United States', 'marketCap': 30843701248, 'earningsGrowth': 0.516, 'environmentScore': 0.4, 'socialScore': 8.88, 'governanceScore': 7.11}
+{'Ticker': 'AJG', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 35832840192, 'earningsGrowth': 0.446, 'environmentScore': 0.13, 'socialScore': 9.18, 'governanceScore': 12.44}
+{'Ticker': 'AIZ', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 7840390656, 'earningsGrowth': -0.717, 'environmentScore': 1.66, 'socialScore': 10.21, 'governanceScore': 12.73}
+{'Ticker': 'T', 'sector': 'Communication Services', 'country': 'United States', 'marketCap': 106818740224, 'earningsGrowth': 1.518, 'environmentScore': 2.27, 'socialScore': 13.15, 'governanceScore': 6.66}
+{'Ticker': 'ATO', 'sector': 'Utilities', 'country': 'United States', 'marketCap': 13724804096, 'earningsGrowth': 0.179, 'environmentScore': 14.83, 'socialScore': 13.42, 'governanceScore': 6.54}
+{'Ticker': 'ADSK', 'sector': 'Technology', 'country': 'United States', 'marketCap': 40972197888, 'earningsGrowth': 0.635, 'environmentScore': 3.41, 'socialScore': 8.19, 'governanceScore': 4.47}
+{'Ticker': 'ADP', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 93818617856, 'earningsGrowth': 0.174, 'environmentScore': 1.07, 'socialScore': 6.96, 'governanceScore': 5.94}
+{'Ticker': 'AZO', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 43132379136, 'earningsGrowth': 0.134, 'environmentScore': 0.05, 'socialScore': 7.17, 'governanceScore': 4.12}
+{'Ticker': 'AVB', 'sector': 'Real Estate', 'country': 'United States', 'marketCap': 23712542720, 'earningsGrowth': -0.691, 'environmentScore': 2.95, 'socialScore': 3.02, 'governanceScore': 4.56}
+{'Ticker': 'AVY', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 13530002432, 'earningsGrowth': 0.192, 'environmentScore': 10.58, 'socialScore': 1.14, 'governanceScore': 3.63}
+{'Ticker': 'BKR', 'sector': 'Energy', 'country': 'United States', 'marketCap': 23465566208, 'earningsGrowth': 0, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'BLL', 'sector': 0, 'country': 0, 'marketCap': 0, 'earningsGrowth': 0, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'BAC', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 254717116416, 'earningsGrowth': -0.293, 'environmentScore': 1.62, 'socialScore': 14.37, 'governanceScore': 11.16}
+{'Ticker': 'BBWI', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 7454127104, 'earningsGrowth': -0.611, 'environmentScore': 2.59, 'socialScore': 8.43, 'governanceScore': 4.71}
+{'Ticker': 'BAX', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 27446800384, 'earningsGrowth': -0.153, 'environmentScore': 2.83, 'socialScore': 13.6, 'governanceScore': 7.31}
+{'Ticker': 'BDX', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 64083316736, 'earningsGrowth': -0.318, 'environmentScore': 3.7, 'socialScore': 15.56, 'governanceScore': 7.48}
+{'Ticker': 'BRK.B', 'sector': 0, 'country': 0, 'marketCap': 0, 'earningsGrowth': 0, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'BBY', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 14262048768, 'earningsGrowth': -0.534, 'environmentScore': 2.22, 'socialScore': 7.19, 'governanceScore': 4.85}
+{'Ticker': 'BIO', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 11734965248, 'earningsGrowth': 0, 'environmentScore': 1.44, 'socialScore': 8.25, 'governanceScore': 7.19}
+{'Ticker': 'TECH', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 11094504448, 'earningsGrowth': 3.105, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'BIIB', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 38401253376, 'earningsGrowth': 1.421, 'environmentScore': 0.02, 'socialScore': 13.22, 'governanceScore': 7.81}
+{'Ticker': 'BLK', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 83698671616, 'earningsGrowth': -0.209, 'environmentScore': 1.49, 'socialScore': 9.61, 'governanceScore': 9.48}
+{'Ticker': 'BK', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 31719784448, 'earningsGrowth': -0.089, 'environmentScore': 1.13, 'socialScore': 9.17, 'governanceScore': 11.18}
+{'Ticker': 'BA', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 78252122112, 'earningsGrowth': -0.68, 'environmentScore': 7.08, 'socialScore': 19.72, 'governanceScore': 7.87}
+{'Ticker': 'BKNG', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 66328809472, 'earningsGrowth': 0, 'environmentScore': 2.02, 'socialScore': 12.48, 'governanceScore': 7.83}
+{'Ticker': 'BWA', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 7865157632, 'earningsGrowth': -0.117, 'environmentScore': 2.6, 'socialScore': 4.33, 'governanceScore': 6.52}
+{'Ticker': 'BXP', 'sector': 'Real Estate', 'country': 'United States', 'marketCap': 11469868032, 'earningsGrowth': 1, 'environmentScore': 2.54, 'socialScore': 4.52, 'governanceScore': 5.37}
+{'Ticker': 'BSX', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 57235767296, 'earningsGrowth': 0.417, 'environmentScore': 3, 'socialScore': 12.69, 'governanceScore': 10.63}
+{'Ticker': 'BMY', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 150792077312, 'earningsGrowth': 0.404, 'environmentScore': 0.34, 'socialScore': 14.93, 'governanceScore': 7.56}
+{'Ticker': 'AVGO', 'sector': 'Technology', 'country': 'United States', 'marketCap': 172978913280, 'earningsGrowth': 0.702, 'environmentScore': 8.82, 'socialScore': 6.92, 'governanceScore': 6.66}
+{'Ticker': 'BR', 'sector': 'Technology', 'country': 'United States', 'marketCap': 21485524992, 'earningsGrowth': -0.053, 'environmentScore': 0.82, 'socialScore': 9.01, 'governanceScore': 6.67}
+{'Ticker': 'BRO', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 16800364544, 'earningsGrowth': 0.041, 'environmentScore': 0.16, 'socialScore': 10.49, 'governanceScore': 10.71}
+{'Ticker': 'BF.B', 'sector': 0, 'country': 0, 'marketCap': 0, 'earningsGrowth': 0, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'CHRW', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 12334466048, 'earningsGrowth': 0.854, 'environmentScore': 5.25, 'socialScore': 9.29, 'governanceScore': 5.63}
+{'Ticker': 'CDNS', 'sector': 'Technology', 'country': 'United States', 'marketCap': 40382132224, 'earningsGrowth': 0.214, 'environmentScore': 1.41, 'socialScore': 6.06, 'governanceScore': 4.8}
+{'Ticker': 'CZR', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 7616265216, 'earningsGrowth': 0, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'CPB', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 15078964224, 'earningsGrowth': -0.661, 'environmentScore': 9.93, 'socialScore': 8.13, 'governanceScore': 4.51}
+{'Ticker': 'COF', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 36612399104, 'earningsGrowth': -0.349, 'environmentScore': 0.07, 'socialScore': 13.33, 'governanceScore': 9.22}
+{'Ticker': 'CAH', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 17837844480, 'earningsGrowth': 0.262, 'environmentScore': 1.51, 'socialScore': 5.9, 'governanceScore': 4.86}
+{'Ticker': 'KMX', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 9512503296, 'earningsGrowth': -0.541, 'environmentScore': 0.08, 'socialScore': 7.92, 'governanceScore': 3.98}
+{'Ticker': 'CCL', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 9260587008, 'earningsGrowth': 0, 'environmentScore': 10.01, 'socialScore': 9.86, 'governanceScore': 3.82}
+{'Ticker': 'CARR', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 29093523456, 'earningsGrowth': 0.218, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'CTLT', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 12344367104, 'earningsGrowth': -0.381, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'CAT', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 96390455296, 'earningsGrowth': 0.032, 'environmentScore': 7.18, 'socialScore': 18.52, 'governanceScore': 8.47}
+{'Ticker': 'CBOE', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 12382318592, 'earningsGrowth': 0, 'environmentScore': 2.85, 'socialScore': 7.43, 'governanceScore': 9.19}
+{'Ticker': 'CBRE', 'sector': 'Real Estate', 'country': 'United States', 'marketCap': 22603341824, 'earningsGrowth': 0.487, 'environmentScore': 1.27, 'socialScore': 2.48, 'governanceScore': 3.24}
+{'Ticker': 'CDW', 'sector': 'Technology', 'country': 'United States', 'marketCap': 20912201728, 'earningsGrowth': 0.123, 'environmentScore': 2.4, 'socialScore': 3.29, 'governanceScore': 3.45}
+{'Ticker': 'CE', 'sector': 'Basic Materials', 'country': 'United States', 'marketCap': 9654680576, 'earningsGrowth': -0.167, 'environmentScore': 15.09, 'socialScore': 7.71, 'governanceScore': 6.47}
+{'Ticker': 'CNC', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 43354271744, 'earningsGrowth': 0, 'environmentScore': 0.09, 'socialScore': 13.28, 'governanceScore': 7.45}
+{'Ticker': 'CNP', 'sector': 'Utilities', 'country': 'United States', 'marketCap': 16275051520, 'earningsGrowth': 0.464, 'environmentScore': 10.58, 'socialScore': 9.56, 'governanceScore': 5.42}
+{'Ticker': 'CDAY', 'sector': 'Technology', 'country': 'United States', 'marketCap': 7846512640, 'earningsGrowth': 0, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'CERN', 'sector': 0, 'country': 0, 'marketCap': 0, 'earningsGrowth': 0, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'CF', 'sector': 'Basic Materials', 'country': 'United States', 'marketCap': 21027129344, 'earningsGrowth': 5.014, 'environmentScore': 16.82, 'socialScore': 7.73, 'governanceScore': 5.49}
+{'Ticker': 'CRL', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 9952588800, 'earningsGrowth': 0.508, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'SCHW', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 130413592576, 'earningsGrowth': 0.475, 'environmentScore': 2.08, 'socialScore': 10.14, 'governanceScore': 11.79}
+{'Ticker': 'CHTR', 'sector': 'Communication Services', 'country': 'United States', 'marketCap': 57966575616, 'earningsGrowth': 0.665, 'environmentScore': 5.57, 'socialScore': 13.1, 'governanceScore': 7.86}
+{'Ticker': 'CVX', 'sector': 'Energy', 'country': 'United States', 'marketCap': 308700282880, 'earningsGrowth': 2.719, 'environmentScore': 18.61, 'socialScore': 8.71, 'governanceScore': 10.29}
+{'Ticker': 'CMG', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 42439720960, 'earningsGrowth': 0.402, 'environmentScore': 5.5, 'socialScore': 13.45, 'governanceScore': 5.24}
+{'Ticker': 'CB', 'sector': 'Financial Services', 'country': 'Switzerland', 'marketCap': 81310982144, 'earningsGrowth': -0.435, 'environmentScore': 1.67, 'socialScore': 11.59, 'governanceScore': 10.58}
+{'Ticker': 'CHD', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 17610901504, 'earningsGrowth': -0.126, 'environmentScore': 6.53, 'socialScore': 6.53, 'governanceScore': 6.59}
+{'Ticker': 'CI', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 97870684160, 'earningsGrowth': 0.115, 'environmentScore': 0.02, 'socialScore': 5.99, 'governanceScore': 5.65}
+{'Ticker': 'CINF', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 15961015296, 'earningsGrowth': 0, 'environmentScore': 1.82, 'socialScore': 10.97, 'governanceScore': 12.83}
+{'Ticker': 'CTAS', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 39533301760, 'earningsGrowth': 0.141, 'environmentScore': 3.21, 'socialScore': 9.17, 'governanceScore': 6.44}
+{'Ticker': 'CSCO', 'sector': 'Technology', 'country': 'United States', 'marketCap': 169547923456, 'earningsGrowth': 0.076, 'environmentScore': 0.03, 'socialScore': 5.59, 'governanceScore': 6.45}
+{'Ticker': 'C', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 85779988480, 'earningsGrowth': -0.232, 'environmentScore': 1.75, 'socialScore': 13.11, 'governanceScore': 11.82}
+{'Ticker': 'CFG', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 15266484224, 'earningsGrowth': -0.535, 'environmentScore': 1.88, 'socialScore': 10.18, 'governanceScore': 10.27}
+{'Ticker': 'CTXS', 'sector': 'Technology', 'country': 'United States', 'marketCap': 12958720000, 'earningsGrowth': 0.8, 'environmentScore': 0.68, 'socialScore': 7.97, 'governanceScore': 5.92}
+{'Ticker': 'CLX', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 16130682880, 'earningsGrowth': 0, 'environmentScore': 6.33, 'socialScore': 9.2, 'governanceScore': 5.56}
+{'Ticker': 'CME', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 61751939072, 'earningsGrowth': 0.282, 'environmentScore': 2.13, 'socialScore': 6.21, 'governanceScore': 6.24}
+{'Ticker': 'CMS', 'sector': 'Utilities', 'country': 'United States', 'marketCap': 15663916032, 'earningsGrowth': -0.179, 'environmentScore': 9.8, 'socialScore': 5.78, 'governanceScore': 5.7}
+{'Ticker': 'KO', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 237481705472, 'earningsGrowth': -0.279, 'environmentScore': 7.88, 'socialScore': 9.72, 'governanceScore': 4.95}
+{'Ticker': 'CTSH', 'sector': 'Technology', 'country': 'United States', 'marketCap': 31136464896, 'earningsGrowth': 0.144, 'environmentScore': 1.11, 'socialScore': 7.64, 'governanceScore': 5.63}
+{'Ticker': 'CL', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 60120424448, 'earningsGrowth': -0.133, 'environmentScore': 6.06, 'socialScore': 9.35, 'governanceScore': 6.72}
+{'Ticker': 'CMCSA', 'sector': 'Communication Services', 'country': 'United States', 'marketCap': 137296044032, 'earningsGrowth': -0.05, 'environmentScore': 4.56, 'socialScore': 12.11, 'governanceScore': 8.09}
+{'Ticker': 'CMA', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 9457154048, 'earningsGrowth': -0.172, 'environmentScore': 2.15, 'socialScore': 11.72, 'governanceScore': 12.43}
+{'Ticker': 'CAG', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 16448570368, 'earningsGrowth': -0.485, 'environmentScore': 11.7, 'socialScore': 16.29, 'governanceScore': 4.77}
+{'Ticker': 'COP', 'sector': 'Energy', 'country': 'United States', 'marketCap': 155583348736, 'earningsGrowth': 4.853, 'environmentScore': 17.29, 'socialScore': 9.71, 'governanceScore': 7.87}
+{'Ticker': 'ED', 'sector': 'Utilities', 'country': 'United States', 'marketCap': 28975581184, 'earningsGrowth': 0.393, 'environmentScore': 7.46, 'socialScore': 9.34, 'governanceScore': 6.29}
+{'Ticker': 'STZ', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 42480009216, 'earningsGrowth': 0, 'environmentScore': 10.35, 'socialScore': 10.04, 'governanceScore': 5.4}
+{'Ticker': 'CPRT', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 25672065024, 'earningsGrowth': 0.028, 'environmentScore': 1.61, 'socialScore': 11.07, 'governanceScore': 5.47}
+{'Ticker': 'GLW', 'sector': 'Technology', 'country': 'United States', 'marketCap': 25772922880, 'earningsGrowth': 0, 'environmentScore': 7.3, 'socialScore': 5.24, 'governanceScore': 6.87}
+{'Ticker': 'CTVA', 'sector': 'Basic Materials', 'country': 'United States', 'marketCap': 42203377664, 'earningsGrowth': 0.015, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'COST', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 201229910016, 'earningsGrowth': 0.117, 'environmentScore': 7.26, 'socialScore': 11.21, 'governanceScore': 5.72}
+{'Ticker': 'CTRA', 'sector': 'Energy', 'country': 'United States', 'marketCap': 22610810880, 'earningsGrowth': 19.267, 'environmentScore': 23.49, 'socialScore': 14.01, 'governanceScore': 8.66}
+{'Ticker': 'CCI', 'sector': 'Real Estate', 'country': 'United States', 'marketCap': 55277428736, 'earningsGrowth': 0.256, 'environmentScore': 5.21, 'socialScore': 2.92, 'governanceScore': 5.06}
+{'Ticker': 'CSX', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 58477264896, 'earningsGrowth': 0.045, 'environmentScore': 7.45, 'socialScore': 9.19, 'governanceScore': 3.44}
+{'Ticker': 'CMI', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 30912495616, 'earningsGrowth': 0.205, 'environmentScore': 5.8, 'socialScore': 7.5, 'governanceScore': 6.06}
+{'Ticker': 'CVS', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 117235720192, 'earningsGrowth': 0.062, 'environmentScore': 0.03, 'socialScore': 16.39, 'governanceScore': 6.44}
+{'Ticker': 'DHI', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 23854571520, 'earningsGrowth': 0.526, 'environmentScore': 9.35, 'socialScore': 6.66, 'governanceScore': 6.05}
+{'Ticker': 'DHR', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 181295333376, 'earningsGrowth': -0.061, 'environmentScore': 1.35, 'socialScore': 5.16, 'governanceScore': 5.22}
+{'Ticker': 'DRI', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 16874646528, 'earningsGrowth': -0.194, 'environmentScore': 8.43, 'socialScore': 15, 'governanceScore': 4.63}
+{'Ticker': 'DVA', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 9108840448, 'earningsGrowth': -0.23, 'environmentScore': 0.07, 'socialScore': 14.08, 'governanceScore': 8.57}
+{'Ticker': 'DE', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 109787340800, 'earningsGrowth': 0.199, 'environmentScore': 3.19, 'socialScore': 6.9, 'governanceScore': 6.55}
+{'Ticker': 'DAL', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 19891636224, 'earningsGrowth': 0.127, 'environmentScore': 9.52, 'socialScore': 11.46, 'governanceScore': 5.15}
+{'Ticker': 'XRAY', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 6225927680, 'earningsGrowth': -0.435, 'environmentScore': 2.21, 'socialScore': 6.86, 'governanceScore': 6.96}
+{'Ticker': 'DVN', 'sector': 'Energy', 'country': 'United States', 'marketCap': 46049538048, 'earningsGrowth': 3.625, 'environmentScore': 18, 'socialScore': 8.78, 'governanceScore': 7.86}
+{'Ticker': 'DXCM', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 9441172480, 'earningsGrowth': -0.346, 'environmentScore': 5.39, 'socialScore': 10.24, 'governanceScore': 8.09}
+{'Ticker': 'FANG', 'sector': 'Energy', 'country': 'United States', 'marketCap': 25248548864, 'earningsGrowth': 2.278, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'DLR', 'sector': 'Real Estate', 'country': 'United States', 'marketCap': 25779210240, 'earningsGrowth': -0.584, 'environmentScore': 3.23, 'socialScore': 3.7, 'governanceScore': 6.1}
+{'Ticker': 'DFS', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 26728529920, 'earningsGrowth': -0.286, 'environmentScore': 0.13, 'socialScore': 11.87, 'governanceScore': 10.58}
+{'Ticker': 'DISCA', 'sector': 0, 'country': 0, 'marketCap': 0, 'earningsGrowth': 0, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'DISCK', 'sector': 0, 'country': 0, 'marketCap': 0, 'earningsGrowth': 0, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'DISH', 'sector': 'Communication Services', 'country': 'United States', 'marketCap': 6872752640, 'earningsGrowth': -0.226, 'environmentScore': 1.62, 'socialScore': 10.25, 'governanceScore': 9.59}
+{'Ticker': 'DG', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 53370335232, 'earningsGrowth': 0.108, 'environmentScore': 3.27, 'socialScore': 8.56, 'governanceScore': 5.28}
+{'Ticker': 'DLTR', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 30473347072, 'earningsGrowth': 0.301, 'environmentScore': 3.4, 'socialScore': 7.41, 'governanceScore': 4.27}
+{'Ticker': 'D', 'sector': 'Utilities', 'country': 'United States', 'marketCap': 53538263040, 'earningsGrowth': 0, 'environmentScore': 11.11, 'socialScore': 8.55, 'governanceScore': 5.73}
+{'Ticker': 'DPZ', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 11233645568, 'earningsGrowth': -0.139, 'environmentScore': 7.73, 'socialScore': 16.68, 'governanceScore': 6.62}
+{'Ticker': 'DOV', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 16782814208, 'earningsGrowth': 0.099, 'environmentScore': 7.12, 'socialScore': 12.38, 'governanceScore': 5.59}
+{'Ticker': 'DOW', 'sector': 'Basic Materials', 'country': 'United States', 'marketCap': 32403693568, 'earningsGrowth': -0.1, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'DTE', 'sector': 'Utilities', 'country': 'United States', 'marketCap': 20245411840, 'earningsGrowth': -0.793, 'environmentScore': 13.42, 'socialScore': 6.96, 'governanceScore': 5.03}
+{'Ticker': 'DUK', 'sector': 'Utilities', 'country': 'United States', 'marketCap': 66848710656, 'earningsGrowth': 0.192, 'environmentScore': 14.49, 'socialScore': 8.57, 'governanceScore': 4.56}
+{'Ticker': 'DRE', 'sector': 'Real Estate', 'country': 'United States', 'marketCap': 18737653760, 'earningsGrowth': -0.43, 'environmentScore': 4.33, 'socialScore': 3.66, 'governanceScore': 4.95}
+{'Ticker': 'DD', 'sector': 'Basic Materials', 'country': 'United States', 'marketCap': 26096994304, 'earningsGrowth': 0.725, 'environmentScore': 13.44, 'socialScore': 8.12, 'governanceScore': 7.39}
+{'Ticker': 'DXC', 'sector': 'Technology', 'country': 'United States', 'marketCap': 6236562432, 'earningsGrowth': -0.598, 'environmentScore': 1.26, 'socialScore': 9.69, 'governanceScore': 5.13}
+{'Ticker': 'EMN', 'sector': 'Basic Materials', 'country': 'United States', 'marketCap': 8872949760, 'earningsGrowth': 0, 'environmentScore': 11.98, 'socialScore': 5.42, 'governanceScore': 6.96}
+{'Ticker': 'ETN', 'sector': 'Industrials', 'country': 'Ireland', 'marketCap': 53495672832, 'earningsGrowth': 0.19, 'environmentScore': 5.37, 'socialScore': 6.76, 'governanceScore': 5.72}
+{'Ticker': 'EBAY', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 20370567168, 'earningsGrowth': 0, 'environmentScore': 0.93, 'socialScore': 9.33, 'governanceScore': 6.84}
+{'Ticker': 'ECL', 'sector': 'Basic Materials', 'country': 'United States', 'marketCap': 39764512768, 'earningsGrowth': 0, 'environmentScore': 9.48, 'socialScore': 8.44, 'governanceScore': 6.17}
+{'Ticker': 'EIX', 'sector': 'Utilities', 'country': 'United States', 'marketCap': 20990201856, 'earningsGrowth': -0.247, 'environmentScore': 10.73, 'socialScore': 11.2, 'governanceScore': 5.5}
+{'Ticker': 'EW', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 51095699456, 'earningsGrowth': -0.167, 'environmentScore': 2.86, 'socialScore': 8.85, 'governanceScore': 7.69}
+{'Ticker': 'EA', 'sector': 'Communication Services', 'country': 'United States', 'marketCap': 33468276736, 'earningsGrowth': 0.563, 'environmentScore': 0.13, 'socialScore': 5.52, 'governanceScore': 4.72}
+{'Ticker': 'LLY', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 317005037568, 'earningsGrowth': 0.409, 'environmentScore': 3.43, 'socialScore': 17.4, 'governanceScore': 11.56}
+{'Ticker': 'EMR', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 46595575808, 'earningsGrowth': 0.215, 'environmentScore': 10.13, 'socialScore': 12.34, 'governanceScore': 7}
+{'Ticker': 'ENPH', 'sector': 'Technology', 'country': 'United States', 'marketCap': 32091516928, 'earningsGrowth': 0.941, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'ETR', 'sector': 'Utilities', 'country': 'United States', 'marketCap': 20100110336, 'earningsGrowth': -0.181, 'environmentScore': 16.31, 'socialScore': 6.85, 'governanceScore': 6.64}
+{'Ticker': 'EOG', 'sector': 'Energy', 'country': 'United States', 'marketCap': 70544302080, 'earningsGrowth': -0.422, 'environmentScore': 20.39, 'socialScore': 8.13, 'governanceScore': 7.73}
+{'Ticker': 'EFX', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 19409297408, 'earningsGrowth': -0.063, 'environmentScore': 0.16, 'socialScore': 18.63, 'governanceScore': 6.98}
+{'Ticker': 'EQIX', 'sector': 'Real Estate', 'country': 'United States', 'marketCap': 45505925120, 'earningsGrowth': 2.118, 'environmentScore': 2.63, 'socialScore': 3.51, 'governanceScore': 5.65}
+{'Ticker': 'EQR', 'sector': 'Real Estate', 'country': 'United States', 'marketCap': 23187240960, 'earningsGrowth': -0.295, 'environmentScore': 2.89, 'socialScore': 3.06, 'governanceScore': 5.14}
+{'Ticker': 'ESS', 'sector': 'Real Estate', 'country': 'United States', 'marketCap': 14489845760, 'earningsGrowth': -0.128, 'environmentScore': 3.5, 'socialScore': 2.69, 'governanceScore': 6.61}
+{'Ticker': 'EL', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 75340505088, 'earningsGrowth': 0.234, 'environmentScore': 6.88, 'socialScore': 11.34, 'governanceScore': 7.68}
+{'Ticker': 'ETSY', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 11720902656, 'earningsGrowth': -0.251, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'RE', 'sector': 'Financial Services', 'country': 'Bermuda', 'marketCap': 10641833984, 'earningsGrowth': -0.817, 'environmentScore': 1.4, 'socialScore': 6.67, 'governanceScore': 10.15}
+{'Ticker': 'EVRG', 'sector': 'Utilities', 'country': 'United States', 'marketCap': 12992687104, 'earningsGrowth': -0.369, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'ES', 'sector': 'Utilities', 'country': 'United States', 'marketCap': 24946563072, 'earningsGrowth': 0.092, 'environmentScore': 4.8, 'socialScore': 8.16, 'governanceScore': 6.09}
+{'Ticker': 'EXC', 'sector': 'Utilities', 'country': 'United States', 'marketCap': 35796656128, 'earningsGrowth': 0, 'environmentScore': 8.83, 'socialScore': 8.97, 'governanceScore': 6.59}
+{'Ticker': 'EXPE', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 13678432256, 'earningsGrowth': 0, 'environmentScore': 2.11, 'socialScore': 14.42, 'governanceScore': 8.9}
+{'Ticker': 'EXPD', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 14718643200, 'earningsGrowth': 0.234, 'environmentScore': 3.83, 'socialScore': 7.31, 'governanceScore': 4.64}
+{'Ticker': 'EXR', 'sector': 'Real Estate', 'country': 'United States', 'marketCap': 22596055040, 'earningsGrowth': 0.378, 'environmentScore': 3.81, 'socialScore': 4.28, 'governanceScore': 5.86}
+{'Ticker': 'XOM', 'sector': 'Energy', 'country': 'United States', 'marketCap': 413388242944, 'earningsGrowth': 2.838, 'environmentScore': 18.55, 'socialScore': 9.82, 'governanceScore': 8.1}
+{'Ticker': 'FFIV', 'sector': 'Technology', 'country': 'United States', 'marketCap': 8364915712, 'earningsGrowth': -0.062, 'environmentScore': 1.26, 'socialScore': 12.49, 'governanceScore': 5.47}
+{'Ticker': 'FB', 'sector': 'Communication Services', 'country': 'United States', 'marketCap': 340673822720, 'earningsGrowth': -0.319, 'environmentScore': 1.02, 'socialScore': 21.01, 'governanceScore': 10.51}
+{'Ticker': 'FAST', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 25126717440, 'earningsGrowth': 0.183, 'environmentScore': 10.69, 'socialScore': 8.66, 'governanceScore': 7.05}
+{'Ticker': 'FRT', 'sector': 'Real Estate', 'country': 'United States', 'marketCap': 7272740864, 'earningsGrowth': 0.323, 'environmentScore': 2.27, 'socialScore': 4.34, 'governanceScore': 5.82}
+{'Ticker': 'FDX', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 40844132352, 'earningsGrowth': -0.186, 'environmentScore': 5.29, 'socialScore': 9.32, 'governanceScore': 5.84}
+{'Ticker': 'FIS', 'sector': 'Technology', 'country': 'United States', 'marketCap': 46291521536, 'earningsGrowth': -0.182, 'environmentScore': 1.27, 'socialScore': 11.14, 'governanceScore': 5.68}
+{'Ticker': 'FITB', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 23303012352, 'earningsGrowth': -0.191, 'environmentScore': 1.46, 'socialScore': 8.19, 'governanceScore': 9.1}
+{'Ticker': 'FRC', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 20571881472, 'earningsGrowth': 0.157, 'environmentScore': 1.74, 'socialScore': 9.83, 'governanceScore': 12.35}
+{'Ticker': 'FE', 'sector': 'Utilities', 'country': 'United States', 'marketCap': 20667357184, 'earningsGrowth': 2.072, 'environmentScore': 12.96, 'socialScore': 9.58, 'governanceScore': 6.84}
+{'Ticker': 'FISV', 'sector': 'Technology', 'country': 'United States', 'marketCap': 60210438144, 'earningsGrowth': 1.3, 'environmentScore': 1.19, 'socialScore': 10.73, 'governanceScore': 6.41}
+{'Ticker': 'FLT', 'sector': 'Technology', 'country': 'United States', 'marketCap': 12546723840, 'earningsGrowth': 0.457, 'environmentScore': 1.07, 'socialScore': 10.26, 'governanceScore': 6.52}
+{'Ticker': 'FMC', 'sector': 'Basic Materials', 'country': 'United States', 'marketCap': 13961294848, 'earningsGrowth': -0.319, 'environmentScore': 16.62, 'socialScore': 9.09, 'governanceScore': 7.46}
+{'Ticker': 'F', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 46916198400, 'earningsGrowth': 0.143, 'environmentScore': 9.27, 'socialScore': 11.34, 'governanceScore': 9.35}
+{'Ticker': 'FTNT', 'sector': 'Technology', 'country': 'United States', 'marketCap': 37951516672, 'earningsGrowth': 0.312, 'environmentScore': 1.23, 'socialScore': 12.19, 'governanceScore': 5.68}
+{'Ticker': 'FTV', 'sector': 'Technology', 'country': 'United States', 'marketCap': 20939882496, 'earningsGrowth': 0.004, 'environmentScore': 16.09, 'socialScore': 13.97, 'governanceScore': 4.95}
+{'Ticker': 'FBHS', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 7175800320, 'earningsGrowth': -0.058, 'environmentScore': 12.43, 'socialScore': 5.9, 'governanceScore': 7.31}
+{'Ticker': 'FOXA', 'sector': 'Communication Services', 'country': 'United States', 'marketCap': 16678591488, 'earningsGrowth': 0.257, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'FOX', 'sector': 'Communication Services', 'country': 'United States', 'marketCap': 16678617088, 'earningsGrowth': 0.257, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'BEN', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 10819330048, 'earningsGrowth': -0.416, 'environmentScore': 1.12, 'socialScore': 9.88, 'governanceScore': 7.18}
+{'Ticker': 'FCX', 'sector': 'Basic Materials', 'country': 'United States', 'marketCap': 39505022976, 'earningsGrowth': -0.219, 'environmentScore': 16.56, 'socialScore': 10.15, 'governanceScore': 5.22}
+{'Ticker': 'GPS', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 3593326336, 'earningsGrowth': 0, 'environmentScore': 1.13, 'socialScore': 8.51, 'governanceScore': 5.54}
+{'Ticker': 'GRMN', 'sector': 'Technology', 'country': 'Switzerland', 'marketCap': 15320401920, 'earningsGrowth': -0.189, 'environmentScore': 5.4, 'socialScore': 7.86, 'governanceScore': 5.28}
+{'Ticker': 'IT', 'sector': 'Technology', 'country': 'United States', 'marketCap': 22014205952, 'earningsGrowth': -0.192, 'environmentScore': 0.13, 'socialScore': 15.44, 'governanceScore': 6.2}
+{'Ticker': 'GNRC', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 8741003264, 'earningsGrowth': 0.1, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'GD', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 60654989312, 'earningsGrowth': 0.054, 'environmentScore': 8.48, 'socialScore': 19.52, 'governanceScore': 6.87}
+{'Ticker': 'GE', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 74093887488, 'earningsGrowth': 0, 'environmentScore': 14.09, 'socialScore': 15.04, 'governanceScore': 11.58}
+{'Ticker': 'GIS', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 46123683840, 'earningsGrowth': 0.324, 'environmentScore': 8.45, 'socialScore': 8.94, 'governanceScore': 4.13}
+{'Ticker': 'GM', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 47955263488, 'earningsGrowth': -0.4, 'environmentScore': 10.28, 'socialScore': 12.92, 'governanceScore': 7.69}
+{'Ticker': 'GPC', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 21849677824, 'earningsGrowth': 0.926, 'environmentScore': 3.57, 'socialScore': 5.29, 'governanceScore': 3.78}
+{'Ticker': 'GILD', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 82935488512, 'earningsGrowth': -0.248, 'environmentScore': 0.03, 'socialScore': 14.04, 'governanceScore': 8.01}
+{'Ticker': 'GPN', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 30504560640, 'earningsGrowth': 0, 'environmentScore': 1.31, 'socialScore': 10.92, 'governanceScore': 6.95}
+{'Ticker': 'GL', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 10624585728, 'earningsGrowth': -0.068, 'environmentScore': 1.56, 'socialScore': 7.64, 'governanceScore': 11.57}
+{'Ticker': 'GS', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 102403383296, 'earningsGrowth': -0.485, 'environmentScore': 1.25, 'socialScore': 12.67, 'governanceScore': 12.24}
+{'Ticker': 'HAL', 'sector': 'Energy', 'country': 'United States', 'marketCap': 26673223680, 'earningsGrowth': -0.53, 'environmentScore': 8.89, 'socialScore': 8.59, 'governanceScore': 6.32}
+{'Ticker': 'HBI', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 2690342912, 'earningsGrowth': -0.293, 'environmentScore': 1.32, 'socialScore': 7.55, 'governanceScore': 5.63}
+{'Ticker': 'HAS', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 9196860416, 'earningsGrowth': 0, 'environmentScore': 0.05, 'socialScore': 4.97, 'governanceScore': 4.34}
+{'Ticker': 'HCA', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 57826926592, 'earningsGrowth': -0.106, 'environmentScore': 3.5, 'socialScore': 17.34, 'governanceScore': 7.4}
+{'Ticker': 'PEAK', 'sector': 'Real Estate', 'country': 'United States', 'marketCap': 12016468992, 'earningsGrowth': -0.754, 'environmentScore': 3.01, 'socialScore': 2.22, 'governanceScore': 4.49}
+{'Ticker': 'HSIC', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 9104733184, 'earningsGrowth': 0.055, 'environmentScore': 2.14, 'socialScore': 5.59, 'governanceScore': 5.76}
+{'Ticker': 'HES', 'sector': 'Energy', 'country': 'United States', 'marketCap': 37955702784, 'earningsGrowth': 0, 'environmentScore': 18.4, 'socialScore': 6.92, 'governanceScore': 6.59}
+{'Ticker': 'HPE', 'sector': 'Technology', 'country': 'United States', 'marketCap': 16199554048, 'earningsGrowth': 0.069, 'environmentScore': 0.76, 'socialScore': 4.92, 'governanceScore': 6.25}
+{'Ticker': 'HLT', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 33622102016, 'earningsGrowth': 1.87, 'environmentScore': 7, 'socialScore': 6.67, 'governanceScore': 3.87}
+{'Ticker': 'HOLX', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 15726383104, 'earningsGrowth': -0.135, 'environmentScore': 4.79, 'socialScore': 13.27, 'governanceScore': 10.52}
+{'Ticker': 'HD', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 288659243008, 'earningsGrowth': 0.06, 'environmentScore': 3.4, 'socialScore': 5.51, 'governanceScore': 3.63}
+{'Ticker': 'HON', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 117330206720, 'earningsGrowth': -0.098, 'environmentScore': 10.58, 'socialScore': 10.19, 'governanceScore': 8.54}
+{'Ticker': 'HRL', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 24518828032, 'earningsGrowth': 0.25, 'environmentScore': 10.95, 'socialScore': 10.51, 'governanceScore': 6.4}
+{'Ticker': 'HST', 'sector': 'Real Estate', 'country': 'United States', 'marketCap': 12192494592, 'earningsGrowth': 0, 'environmentScore': 3.25, 'socialScore': 5.64, 'governanceScore': 4.9}
+{'Ticker': 'HWM', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 13413363712, 'earningsGrowth': 1.059, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'HPQ', 'sector': 'Technology', 'country': 'United States', 'marketCap': 25591113728, 'earningsGrowth': 0.174, 'environmentScore': 0.11, 'socialScore': 5, 'governanceScore': 5.82}
+{'Ticker': 'HUM', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 63276998656, 'earningsGrowth': 0.204, 'environmentScore': 0.01, 'socialScore': 16.43, 'governanceScore': 5.94}
+{'Ticker': 'HBAN', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 19714736128, 'earningsGrowth': 0, 'environmentScore': 1.96, 'socialScore': 10.54, 'governanceScore': 7.68}
+{'Ticker': 'HII', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 8940412928, 'earningsGrowth': -0.049, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'IBM', 'sector': 'Technology', 'country': 'United States', 'marketCap': 107594252288, 'earningsGrowth': 0.041, 'environmentScore': 0.47, 'socialScore': 6.67, 'governanceScore': 7.64}
+{'Ticker': 'IEX', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 14986569728, 'earningsGrowth': 0.351, 'environmentScore': 8.1, 'socialScore': 13, 'governanceScore': 5.95}
+{'Ticker': 'IDXX', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 27527395328, 'earningsGrowth': -0.034, 'environmentScore': 3.6, 'socialScore': 7.12, 'governanceScore': 9.98}
+{'Ticker': 'INFO', 'sector': 0, 'country': 0, 'marketCap': 0, 'earningsGrowth': 0, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'ITW', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 58413252608, 'earningsGrowth': 0, 'environmentScore': 4.31, 'socialScore': 9.07, 'governanceScore': 6.22}
+{'Ticker': 'ILMN', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 31153717248, 'earningsGrowth': -0.452, 'environmentScore': 1.14, 'socialScore': 3.94, 'governanceScore': 6.12}
+{'Ticker': 'INCY', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 15263567872, 'earningsGrowth': -0.292, 'environmentScore': 1.45, 'socialScore': 15.55, 'governanceScore': 6.8}
+{'Ticker': 'IR', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 18386159616, 'earningsGrowth': 0, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'INTC', 'sector': 'Technology', 'country': 'United States', 'marketCap': 105375973376, 'earningsGrowth': 0, 'environmentScore': 4.36, 'socialScore': 5.94, 'governanceScore': 6.96}
+{'Ticker': 'ICE', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 50790875136, 'earningsGrowth': 0.018, 'environmentScore': 1.68, 'socialScore': 7.98, 'governanceScore': 6.68}
+{'Ticker': 'IFF', 'sector': 'Basic Materials', 'country': 'United States', 'marketCap': 22326317056, 'earningsGrowth': 0, 'environmentScore': 10.39, 'socialScore': 5.42, 'governanceScore': 6.5}
+{'Ticker': 'IP', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 12632518656, 'earningsGrowth': 0.263, 'environmentScore': 14.26, 'socialScore': 4.5, 'governanceScore': 5.06}
+{'Ticker': 'IPG', 'sector': 'Communication Services', 'country': 'United States', 'marketCap': 10816449536, 'earningsGrowth': -0.121, 'environmentScore': 0.12, 'socialScore': 9.32, 'governanceScore': 5.72}
+{'Ticker': 'INTU', 'sector': 'Technology', 'country': 'United States', 'marketCap': 107634606080, 'earningsGrowth': 0.185, 'environmentScore': 0.97, 'socialScore': 10.52, 'governanceScore': 4.7}
+{'Ticker': 'ISRG', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 65395802112, 'earningsGrowth': -0.401, 'environmentScore': 4.37, 'socialScore': 9.78, 'governanceScore': 9.6}
+{'Ticker': 'IVZ', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 6586035712, 'earningsGrowth': -0.671, 'environmentScore': 0.7, 'socialScore': 9.87, 'governanceScore': 9.85}
+{'Ticker': 'IPGP', 'sector': 'Technology', 'country': 'United States', 'marketCap': 4494473216, 'earningsGrowth': 0.04, 'environmentScore': 3.62, 'socialScore': 2.82, 'governanceScore': 5.15}
+{'Ticker': 'IQV', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 33128247296, 'earningsGrowth': 0.489, 'environmentScore': 1.33, 'socialScore': 10.89, 'governanceScore': 7.01}
+{'Ticker': 'IRM', 'sector': 'Real Estate', 'country': 'United States', 'marketCap': 12780737536, 'earningsGrowth': -0.114, 'environmentScore': 5, 'socialScore': 3.74, 'governanceScore': 5.84}
+{'Ticker': 'JBHT', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 17138284544, 'earningsGrowth': 0.503, 'environmentScore': 3, 'socialScore': 6.01, 'governanceScore': 5.32}
+{'Ticker': 'JKHY', 'sector': 'Technology', 'country': 'United States', 'marketCap': 13581339648, 'earningsGrowth': 0.224, 'environmentScore': 0.78, 'socialScore': 9.45, 'governanceScore': 5.22}
+{'Ticker': 'J', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 14252775424, 'earningsGrowth': 7.5, 'environmentScore': 5.29, 'socialScore': 11.46, 'governanceScore': 5.62}
+{'Ticker': 'SJM', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 15282434048, 'earningsGrowth': 0.415, 'environmentScore': 12.36, 'socialScore': 12.39, 'governanceScore': 6.17}
+{'Ticker': 'JNJ', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 432957423616, 'earningsGrowth': -0.234, 'environmentScore': 0.74, 'socialScore': 15.79, 'governanceScore': 8.55}
+{'Ticker': 'JCI', 'sector': 'Industrials', 'country': 'Ireland', 'marketCap': 35808239616, 'earningsGrowth': -0.967, 'environmentScore': 4.89, 'socialScore': 4.55, 'governanceScore': 5.25}
+{'Ticker': 'JPM', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 336721117184, 'earningsGrowth': -0.27, 'environmentScore': 1.11, 'socialScore': 16.18, 'governanceScore': 11.73}
+{'Ticker': 'JNPR', 'sector': 'Technology', 'country': 'United States', 'marketCap': 8392921088, 'earningsGrowth': 0.842, 'environmentScore': 1.66, 'socialScore': 8.35, 'governanceScore': 6.59}
+{'Ticker': 'KSU', 'sector': 0, 'country': 0, 'marketCap': 0, 'earningsGrowth': 0, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'K', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 24554035200, 'earningsGrowth': 0.15, 'environmentScore': 7.4, 'socialScore': 14.87, 'governanceScore': 4.58}
+{'Ticker': 'KEY', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 15343835136, 'earningsGrowth': -0.251, 'environmentScore': 1.89, 'socialScore': 10.98, 'governanceScore': 10.28}
+{'Ticker': 'KEYS', 'sector': 'Technology', 'country': 'United States', 'marketCap': 28232398848, 'earningsGrowth': 0.424, 'environmentScore': 2.03, 'socialScore': 2.24, 'governanceScore': 5.15}
+{'Ticker': 'KMB', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 38119731200, 'earningsGrowth': 0.084, 'environmentScore': 8.05, 'socialScore': 7.77, 'governanceScore': 6.23}
+{'Ticker': 'KIM', 'sector': 'Real Estate', 'country': 'United States', 'marketCap': 11687475200, 'earningsGrowth': 0, 'environmentScore': 3.7, 'socialScore': 2.91, 'governanceScore': 5.53}
+{'Ticker': 'KMI', 'sector': 'Energy', 'country': 'United States', 'marketCap': 38977122304, 'earningsGrowth': 0, 'environmentScore': 7.75, 'socialScore': 7.32, 'governanceScore': 3.48}
+{'Ticker': 'KLAC', 'sector': 'Technology', 'country': 'United States', 'marketCap': 39982723072, 'earningsGrowth': 0.317, 'environmentScore': 7.13, 'socialScore': 4.76, 'governanceScore': 5.02}
+{'Ticker': 'KHC', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 43734945792, 'earningsGrowth': 0, 'environmentScore': 14.38, 'socialScore': 14.29, 'governanceScore': 6.63}
+{'Ticker': 'KR', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 31733649408, 'earningsGrowth': 4, 'environmentScore': 6.51, 'socialScore': 9.43, 'governanceScore': 5.46}
+{'Ticker': 'LHX', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 42877120512, 'earningsGrowth': 0.204, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'LH', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 19968761856, 'earningsGrowth': -0.187, 'environmentScore': 0.13, 'socialScore': 11.55, 'governanceScore': 7.36}
+{'Ticker': 'LRCX', 'sector': 'Technology', 'country': 'United States', 'marketCap': 44344647680, 'earningsGrowth': 0.095, 'environmentScore': 4.5, 'socialScore': 3.97, 'governanceScore': 5.19}
+{'Ticker': 'LW', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 12268251136, 'earningsGrowth': -0.5, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'LVS', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 26907729920, 'earningsGrowth': 0, 'environmentScore': 1.28, 'socialScore': 7.76, 'governanceScore': 8.65}
+{'Ticker': 'LEG', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 4256060160, 'earningsGrowth': 0.031, 'environmentScore': 6.46, 'socialScore': 4.13, 'governanceScore': 3.86}
+{'Ticker': 'LDOS', 'sector': 'Technology', 'country': 'United States', 'marketCap': 12449473536, 'earningsGrowth': -0.12, 'environmentScore': 1.29, 'socialScore': 4.99, 'governanceScore': 5.21}
+{'Ticker': 'LEN', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 22258012160, 'earningsGrowth': 0.695, 'environmentScore': 8.89, 'socialScore': 8.59, 'governanceScore': 5.59}
+{'Ticker': 'LNC', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 8605362176, 'earningsGrowth': -0.5, 'environmentScore': 1.85, 'socialScore': 6.12, 'governanceScore': 8.95}
+{'Ticker': 'LIN', 'sector': 'Basic Materials', 'country': 'United Kingdom', 'marketCap': 141126893568, 'earningsGrowth': -0.538, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'LYV', 'sector': 'Communication Services', 'country': 'United States', 'marketCap': 17024734208, 'earningsGrowth': 0, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'LKQ', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 14457953280, 'earningsGrowth': 0.475, 'environmentScore': 4.08, 'socialScore': 4.97, 'governanceScore': 3.81}
+{'Ticker': 'LMT', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 107393818624, 'earningsGrowth': -0.822, 'environmentScore': 5.27, 'socialScore': 15.9, 'governanceScore': 7.2}
+{'Ticker': 'L', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 13445252096, 'earningsGrowth': 0.402, 'environmentScore': 0.59, 'socialScore': 4.25, 'governanceScore': 11.63}
+{'Ticker': 'LOW', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 127311241216, 'earningsGrowth': 0.093, 'environmentScore': 3.7, 'socialScore': 4.63, 'governanceScore': 3.15}
+{'Ticker': 'LUMN', 'sector': 'Communication Services', 'country': 'United States', 'marketCap': 6880540672, 'earningsGrowth': 0.345, 'environmentScore': 4.93, 'socialScore': 12.04, 'governanceScore': 7.04}
+{'Ticker': 'LYB', 'sector': 'Basic Materials', 'country': 'United States', 'marketCap': 25890596864, 'earningsGrowth': -0.188, 'environmentScore': 16.64, 'socialScore': 2.13, 'governanceScore': 5.82}
+{'Ticker': 'MTB', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 23878789120, 'earningsGrowth': -0.211, 'environmentScore': 2.2, 'socialScore': 12.77, 'governanceScore': 11.19}
+{'Ticker': 'MRO', 'sector': 'Energy', 'country': 'United States', 'marketCap': 21059426304, 'earningsGrowth': 13.833, 'environmentScore': 23.91, 'socialScore': 10.01, 'governanceScore': 8.13}
+{'Ticker': 'MPC', 'sector': 'Energy', 'country': 'United States', 'marketCap': 64082706432, 'earningsGrowth': 0, 'environmentScore': 15.91, 'socialScore': 7.01, 'governanceScore': 5.79}
+{'Ticker': 'MKTX', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 8737348608, 'earningsGrowth': 0.006, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'MAR', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 46745280512, 'earningsGrowth': 0, 'environmentScore': 8.75, 'socialScore': 9.05, 'governanceScore': 4.09}
+{'Ticker': 'MMC', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 76693544960, 'earningsGrowth': 0.194, 'environmentScore': 0.06, 'socialScore': 7.9, 'governanceScore': 11.49}
+{'Ticker': 'MLM', 'sector': 'Basic Materials', 'country': 'United States', 'marketCap': 18641582080, 'earningsGrowth': 0.624, 'environmentScore': 18.55, 'socialScore': 4.86, 'governanceScore': 8.74}
+{'Ticker': 'MAS', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 11445239808, 'earningsGrowth': 0, 'environmentScore': 13.9, 'socialScore': 4.29, 'governanceScore': 7.74}
+{'Ticker': 'MA', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 283654389760, 'earningsGrowth': 0.125, 'environmentScore': 0.32, 'socialScore': 8.1, 'governanceScore': 8.57}
+{'Ticker': 'MTCH', 'sector': 'Communication Services', 'country': 'United States', 'marketCap': 11736704000, 'earningsGrowth': 0.046, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'MKC', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 19660478464, 'earningsGrowth': -0.353, 'environmentScore': 9.92, 'socialScore': 11.3, 'governanceScore': 5.3}
+{'Ticker': 'MCD', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 181700100096, 'earningsGrowth': -0.458, 'environmentScore': 4.18, 'socialScore': 14.3, 'governanceScore': 6.32}
+{'Ticker': 'MCK', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 53843304448, 'earningsGrowth': -0.406, 'environmentScore': 2.29, 'socialScore': 7.37, 'governanceScore': 5.52}
+{'Ticker': 'MDT', 'sector': 'Healthcare', 'country': 'Ireland', 'marketCap': 109729546240, 'earningsGrowth': 0.102, 'environmentScore': 2.39, 'socialScore': 12.63, 'governanceScore': 7.63}
+{'Ticker': 'MRK', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 232841150464, 'earningsGrowth': 1.541, 'environmentScore': 0.79, 'socialScore': 11.47, 'governanceScore': 9.57}
+{'Ticker': 'MET', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 54776340480, 'earningsGrowth': 1.229, 'environmentScore': 0.73, 'socialScore': 4.82, 'governanceScore': 9.41}
+{'Ticker': 'MTD', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 25675716608, 'earningsGrowth': 0.183, 'environmentScore': 1, 'socialScore': 7.41, 'governanceScore': 4.91}
+{'Ticker': 'MGM', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 14368933888, 'earningsGrowth': 0, 'environmentScore': 2, 'socialScore': 12.97, 'governanceScore': 10.21}
+{'Ticker': 'MCHP', 'sector': 'Technology', 'country': 'United States', 'marketCap': 31799656448, 'earningsGrowth': 2.712, 'environmentScore': 14.83, 'socialScore': 8.75, 'governanceScore': 7.33}
+{'Ticker': 'MU', 'sector': 'Technology', 'country': 'United States', 'marketCap': 59055362048, 'earningsGrowth': 0.539, 'environmentScore': 6.6, 'socialScore': 5.07, 'governanceScore': 5.77}
+{'Ticker': 'MSFT', 'sector': 'Technology', 'country': 'United States', 'marketCap': 1716023853056, 'earningsGrowth': 0.031, 'environmentScore': 1.53, 'socialScore': 8.39, 'governanceScore': 5.33}
+{'Ticker': 'MAA', 'sector': 'Real Estate', 'country': 'United States', 'marketCap': 16388742144, 'earningsGrowth': -0.033, 'environmentScore': 5.5, 'socialScore': 3.74, 'governanceScore': 5.27}
+{'Ticker': 'MRNA', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 52420800512, 'earningsGrowth': -0.189, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'MHK', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 6115128320, 'earningsGrowth': -0.087, 'environmentScore': 5.61, 'socialScore': 4.19, 'governanceScore': 4.25}
+{'Ticker': 'TAP', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 10610486272, 'earningsGrowth': -0.878, 'environmentScore': 6.96, 'socialScore': 8.67, 'governanceScore': 5.83}
+{'Ticker': 'MDLZ', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 78040252416, 'earningsGrowth': -0.289, 'environmentScore': 9.46, 'socialScore': 9.08, 'governanceScore': 5.18}
+{'Ticker': 'MPWR', 'sector': 'Technology', 'country': 'United States', 'marketCap': 14467159040, 'earningsGrowth': 1.043, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'MNST', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 46049837056, 'earningsGrowth': -0.32, 'environmentScore': 12.43, 'socialScore': 10.58, 'governanceScore': 5.03}
+{'Ticker': 'MCO', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 43168374784, 'earningsGrowth': -0.423, 'environmentScore': 0.02, 'socialScore': 5.23, 'governanceScore': 5.34}
+{'Ticker': 'MS', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 127558205440, 'earningsGrowth': -0.258, 'environmentScore': 0.72, 'socialScore': 11.76, 'governanceScore': 9.73}
+{'Ticker': 'MSI', 'sector': 'Technology', 'country': 'United States', 'marketCap': 35593232384, 'earningsGrowth': -0.213, 'environmentScore': 2.11, 'socialScore': 6.46, 'governanceScore': 5.18}
+{'Ticker': 'MSCI', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 31293085696, 'earningsGrowth': 0.302, 'environmentScore': 1.61, 'socialScore': 5.41, 'governanceScore': 5.39}
+{'Ticker': 'NDAQ', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 26894622720, 'earningsGrowth': -0.097, 'environmentScore': 1.81, 'socialScore': 4.56, 'governanceScore': 5.56}
+{'Ticker': 'NTAP', 'sector': 'Technology', 'country': 'United States', 'marketCap': 13565811712, 'earningsGrowth': 0.091, 'environmentScore': 2.58, 'socialScore': 6.93, 'governanceScore': 5.99}
+{'Ticker': 'NFLX', 'sector': 'Communication Services', 'country': 'United States', 'marketCap': 102282379264, 'earningsGrowth': 0.077, 'environmentScore': 0.09, 'socialScore': 6.83, 'governanceScore': 9.34}
+{'Ticker': 'NWL', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 6055104000, 'earningsGrowth': 0.065, 'environmentScore': 6.22, 'socialScore': 4.03, 'governanceScore': 4.1}
+{'Ticker': 'NEM', 'sector': 'Basic Materials', 'country': 'United States', 'marketCap': 32334565376, 'earningsGrowth': -0.399, 'environmentScore': 6.92, 'socialScore': 8.24, 'governanceScore': 5.16}
+{'Ticker': 'NWSA', 'sector': 'Communication Services', 'country': 'United States', 'marketCap': 9090291712, 'earningsGrowth': 0, 'environmentScore': 0.02, 'socialScore': 4.56, 'governanceScore': 6.67}
+{'Ticker': 'NWS', 'sector': 'Communication Services', 'country': 'United States', 'marketCap': 9090288640, 'earningsGrowth': 0, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'NEE', 'sector': 'Utilities', 'country': 'United States', 'marketCap': 140822790144, 'earningsGrowth': 4.385, 'environmentScore': 14.05, 'socialScore': 7.64, 'governanceScore': 5.83}
+{'Ticker': 'NLSN', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 10042777600, 'earningsGrowth': 0.429, 'environmentScore': 0.08, 'socialScore': 15, 'governanceScore': 6.02}
+{'Ticker': 'NKE', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 138575888384, 'earningsGrowth': -0.043, 'environmentScore': 3.04, 'socialScore': 6.99, 'governanceScore': 6.92}
+{'Ticker': 'NI', 'sector': 'Utilities', 'country': 'United States', 'marketCap': 9617345536, 'earningsGrowth': 0.306, 'environmentScore': 14.1, 'socialScore': 10.29, 'governanceScore': 5.19}
+{'Ticker': 'NSC', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 51951722496, 'earningsGrowth': 0.052, 'environmentScore': 8.05, 'socialScore': 11.36, 'governanceScore': 3.32}
+{'Ticker': 'NTRS', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 17455982592, 'earningsGrowth': 0.081, 'environmentScore': 1.87, 'socialScore': 11.83, 'governanceScore': 10.69}
+{'Ticker': 'NOC', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 73034727424, 'earningsGrowth': -0.056, 'environmentScore': 7.47, 'socialScore': 14.87, 'governanceScore': 5.05}
+{'Ticker': 'NLOK', 'sector': 'Technology', 'country': 'United States', 'marketCap': 12088869888, 'earningsGrowth': -0.393, 'environmentScore': 0.7, 'socialScore': 9.47, 'governanceScore': 5.06}
+{'Ticker': 'NCLH', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 5432102400, 'earningsGrowth': 0, 'environmentScore': 11.98, 'socialScore': 10.12, 'governanceScore': 4.51}
+{'Ticker': 'NRG', 'sector': 'Utilities', 'country': 'United States', 'marketCap': 10048193536, 'earningsGrowth': 0, 'environmentScore': 17.26, 'socialScore': 8.95, 'governanceScore': 5.42}
+{'Ticker': 'NUE', 'sector': 'Basic Materials', 'country': 'United States', 'marketCap': 33927200768, 'earningsGrowth': 0.918, 'environmentScore': 9.66, 'socialScore': 13.33, 'governanceScore': 9.29}
+{'Ticker': 'NVDA', 'sector': 'Technology', 'country': 'United States', 'marketCap': 279776821248, 'earningsGrowth': -0.158, 'environmentScore': 2.26, 'socialScore': 5.16, 'governanceScore': 6.03}
+{'Ticker': 'NVR', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 13742305280, 'earningsGrowth': 0.5, 'environmentScore': 7.21, 'socialScore': 7.82, 'governanceScore': 5.72}
+{'Ticker': 'NXPI', 'sector': 'Technology', 'country': 'Netherlands', 'marketCap': 36722683904, 'earningsGrowth': 0.782, 'environmentScore': 8.67, 'socialScore': 7.39, 'governanceScore': 5.55}
+{'Ticker': 'ORLY', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 49314922496, 'earningsGrowth': 0.054, 'environmentScore': 0.16, 'socialScore': 8.89, 'governanceScore': 3.98}
+{'Ticker': 'OXY', 'sector': 'Energy', 'country': 'United States', 'marketCap': 62277853184, 'earningsGrowth': 0, 'environmentScore': 24.61, 'socialScore': 12.04, 'governanceScore': 6.59}
+{'Ticker': 'ODFL', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 29849956352, 'earningsGrowth': 0.429, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'OMC', 'sector': 'Communication Services', 'country': 'United States', 'marketCap': 14171309056, 'earningsGrowth': 0.05, 'environmentScore': 0.07, 'socialScore': 10.52, 'governanceScore': 7.59}
+{'Ticker': 'OKE', 'sector': 'Energy', 'country': 'United States', 'marketCap': 24111812608, 'earningsGrowth': 0.012, 'environmentScore': 12.19, 'socialScore': 8.48, 'governanceScore': 3.32}
+{'Ticker': 'ORCL', 'sector': 'Technology', 'country': 'United States', 'marketCap': 171736629248, 'earningsGrowth': -0.15, 'environmentScore': 0.52, 'socialScore': 7.71, 'governanceScore': 5.69}
+{'Ticker': 'OGN', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 5910250496, 'earningsGrowth': -0.136, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'OTIS', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 27236188160, 'earningsGrowth': 0, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'PCAR', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 30645311488, 'earningsGrowth': 0.466, 'environmentScore': 8.36, 'socialScore': 10.99, 'governanceScore': 8.42}
+{'Ticker': 'PKG', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 10659164160, 'earningsGrowth': 0.475, 'environmentScore': 11.55, 'socialScore': 1.35, 'governanceScore': 3.76}
+{'Ticker': 'PH', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 32673654784, 'earningsGrowth': -0.258, 'environmentScore': 9.2, 'socialScore': 13.68, 'governanceScore': 6.32}
+{'Ticker': 'PAYX', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 39391055872, 'earningsGrowth': 0.139, 'environmentScore': 1.17, 'socialScore': 9.81, 'governanceScore': 6.61}
+{'Ticker': 'PAYC', 'sector': 'Technology', 'country': 'United States', 'marketCap': 17931507712, 'earningsGrowth': 0.423, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'PYPL', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 94546624512, 'earningsGrowth': -0.533, 'environmentScore': 0.71, 'socialScore': 9.92, 'governanceScore': 5.36}
+{'Ticker': 'PENN', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 4758258176, 'earningsGrowth': -0.473, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'PNR', 'sector': 'Industrials', 'country': 'United Kingdom', 'marketCap': 6758121472, 'earningsGrowth': 0.168, 'environmentScore': 9.12, 'socialScore': 13.6, 'governanceScore': 6.59}
+{'Ticker': 'PBCT', 'sector': 0, 'country': 0, 'marketCap': 0, 'earningsGrowth': 0, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'PEP', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 234472456192, 'earningsGrowth': 0.219, 'environmentScore': 4.91, 'socialScore': 6.55, 'governanceScore': 4.48}
+{'Ticker': 'PKI', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 15162027008, 'earningsGrowth': -0.352, 'environmentScore': 1.24, 'socialScore': 10.77, 'governanceScore': 6.35}
+{'Ticker': 'PFE', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 240545316864, 'earningsGrowth': 0.774, 'environmentScore': 2.83, 'socialScore': 12.85, 'governanceScore': 9.66}
+{'Ticker': 'PM', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 132166647808, 'earningsGrowth': 0.029, 'environmentScore': 3.57, 'socialScore': 10.73, 'governanceScore': 9.49}
+{'Ticker': 'PSX', 'sector': 'Energy', 'country': 'United States', 'marketCap': 41234804736, 'earningsGrowth': 8.893, 'environmentScore': 16.39, 'socialScore': 7, 'governanceScore': 5.96}
+{'Ticker': 'PNW', 'sector': 'Utilities', 'country': 'United States', 'marketCap': 6971086336, 'earningsGrowth': -0.525, 'environmentScore': 14.86, 'socialScore': 10.23, 'governanceScore': 5.97}
+{'Ticker': 'PXD', 'sector': 'Energy', 'country': 'United States', 'marketCap': 58565304320, 'earningsGrowth': 0, 'environmentScore': 18.67, 'socialScore': 8.97, 'governanceScore': 9.1}
+{'Ticker': 'PNC', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 63269355520, 'earningsGrowth': 0.396, 'environmentScore': 1.73, 'socialScore': 11.75, 'governanceScore': 8.86}
+{'Ticker': 'POOL', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 12308218880, 'earningsGrowth': 0.198, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'PPG', 'sector': 'Basic Materials', 'country': 'United States', 'marketCap': 25927219200, 'earningsGrowth': 0.029, 'environmentScore': 9.32, 'socialScore': 7.69, 'governanceScore': 7.32}
+{'Ticker': 'PPL', 'sector': 'Utilities', 'country': 'United States', 'marketCap': 18036533248, 'earningsGrowth': 5.48, 'environmentScore': 19.71, 'socialScore': 8.31, 'governanceScore': 5.81}
+{'Ticker': 'PFG', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 19094046720, 'earningsGrowth': 8.045, 'environmentScore': 0.68, 'socialScore': 6.65, 'governanceScore': 9.88}
+{'Ticker': 'PG', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 298378330112, 'earningsGrowth': 0.071, 'environmentScore': 9.54, 'socialScore': 9.6, 'governanceScore': 7.47}
+{'Ticker': 'PGR', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 67726114816, 'earningsGrowth': 0, 'environmentScore': 1.67, 'socialScore': 8.36, 'governanceScore': 10.85}
+{'Ticker': 'PLD', 'sector': 'Real Estate', 'country': 'United States', 'marketCap': 73585213440, 'earningsGrowth': 0.017, 'environmentScore': 2.5, 'socialScore': 1.74, 'governanceScore': 4.27}
+{'Ticker': 'PRU', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 35785261056, 'earningsGrowth': 0, 'environmentScore': 1.03, 'socialScore': 6.57, 'governanceScore': 8.6}
+{'Ticker': 'PTC', 'sector': 'Technology', 'country': 'United States', 'marketCap': 12400885760, 'earningsGrowth': 0.395, 'environmentScore': 1.24, 'socialScore': 12.72, 'governanceScore': 5.15}
+{'Ticker': 'PEG', 'sector': 'Utilities', 'country': 'United States', 'marketCap': 26843658240, 'earningsGrowth': 0, 'environmentScore': 14.53, 'socialScore': 8.53, 'governanceScore': 5.39}
+{'Ticker': 'PSA', 'sector': 'Real Estate', 'country': 'United States', 'marketCap': 49603211264, 'earningsGrowth': 0.736, 'environmentScore': 4.51, 'socialScore': 2.55, 'governanceScore': 5.24}
+{'Ticker': 'PHM', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 8699695104, 'earningsGrowth': 0.436, 'environmentScore': 8.73, 'socialScore': 7.28, 'governanceScore': 4.86}
+{'Ticker': 'PVH', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 3183446784, 'earningsGrowth': -0.315, 'environmentScore': 1.17, 'socialScore': 9.2, 'governanceScore': 5.21}
+{'Ticker': 'QRVO', 'sector': 'Technology', 'country': 'United States', 'marketCap': 8219166720, 'earningsGrowth': -0.741, 'environmentScore': 13.12, 'socialScore': 8.5, 'governanceScore': 7.46}
+{'Ticker': 'QCOM', 'sector': 'Technology', 'country': 'United States', 'marketCap': 123473854464, 'earningsGrowth': 0.859, 'environmentScore': 4.83, 'socialScore': 4.05, 'governanceScore': 7.71}
+{'Ticker': 'PWR', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 17650470912, 'earningsGrowth': -0.272, 'environmentScore': 8.17, 'socialScore': 16.8, 'governanceScore': 10.05}
+{'Ticker': 'DGX', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 14705182720, 'earningsGrowth': -0.605, 'environmentScore': 0.13, 'socialScore': 12.67, 'governanceScore': 8.1}
+{'Ticker': 'RL', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 6272278528, 'earningsGrowth': -0.206, 'environmentScore': 1.09, 'socialScore': 6.8, 'governanceScore': 5.28}
+{'Ticker': 'RJF', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 20737835008, 'earningsGrowth': -0.05, 'environmentScore': 1.18, 'socialScore': 10.38, 'governanceScore': 12.43}
+{'Ticker': 'RTX', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 123619057664, 'earningsGrowth': 0.285, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'O', 'sector': 'Real Estate', 'country': 'United States', 'marketCap': 31422588928, 'earningsGrowth': 0.3, 'environmentScore': 4.04, 'socialScore': 5.46, 'governanceScore': 4.75}
+{'Ticker': 'REG', 'sector': 'Real Estate', 'country': 'United States', 'marketCap': 9142773760, 'earningsGrowth': 1.425, 'environmentScore': 3.56, 'socialScore': 2.86, 'governanceScore': 4.45}
+{'Ticker': 'REGN', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 79158099968, 'earningsGrowth': -0.147, 'environmentScore': 0.38, 'socialScore': 10.75, 'governanceScore': 7.03}
+{'Ticker': 'RF', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 19713892352, 'earningsGrowth': -0.234, 'environmentScore': 1.6, 'socialScore': 6.5, 'governanceScore': 7.51}
+{'Ticker': 'RSG', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 40413757440, 'earningsGrowth': 0.198, 'environmentScore': 11.69, 'socialScore': 6.01, 'governanceScore': 3.64}
+{'Ticker': 'RMD', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 30856847360, 'earningsGrowth': 0, 'environmentScore': 3.36, 'socialScore': 12.41, 'governanceScore': 10.63}
+{'Ticker': 'RHI', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 9017730048, 'earningsGrowth': 0.203, 'environmentScore': 0.07, 'socialScore': 5.66, 'governanceScore': 3.52}
+{'Ticker': 'ROK', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 25972992000, 'earningsGrowth': 0.099, 'environmentScore': 6.31, 'socialScore': 7.3, 'governanceScore': 6.08}
+{'Ticker': 'ROL', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 17231556608, 'earningsGrowth': 0, 'environmentScore': 1.76, 'socialScore': 11.15, 'governanceScore': 7.34}
+{'Ticker': 'ROP', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 38310039552, 'earningsGrowth': 0, 'environmentScore': 4.62, 'socialScore': 12.71, 'governanceScore': 5.56}
+{'Ticker': 'ROST', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 28268281856, 'earningsGrowth': -0.201, 'environmentScore': 1.8, 'socialScore': 8.45, 'governanceScore': 5.68}
+{'Ticker': 'RCL', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 11378182144, 'earningsGrowth': 0, 'environmentScore': 9.14, 'socialScore': 8.04, 'governanceScore': 4.16}
+{'Ticker': 'SPGI', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 95587770368, 'earningsGrowth': -0.133, 'environmentScore': 0, 'socialScore': 6.16, 'governanceScore': 8.15}
+{'Ticker': 'CRM', 'sector': 'Technology', 'country': 'United States', 'marketCap': 142220001280, 'earningsGrowth': -0.878, 'environmentScore': 2.34, 'socialScore': 6.39, 'governanceScore': 4.46}
+{'Ticker': 'SBAC', 'sector': 'Real Estate', 'country': 'United States', 'marketCap': 26117265408, 'earningsGrowth': -0.533, 'environmentScore': 3.11, 'socialScore': 3.23, 'governanceScore': 5.23}
+{'Ticker': 'SLB', 'sector': 'Energy', 'country': 'United States', 'marketCap': 59630682112, 'earningsGrowth': 1.233, 'environmentScore': 7.41, 'socialScore': 8.76, 'governanceScore': 5.76}
+{'Ticker': 'STX', 'sector': 'Technology', 'country': 'Ireland', 'marketCap': 10674238464, 'earningsGrowth': -0.388, 'environmentScore': 1.59, 'socialScore': 3.8, 'governanceScore': 5.26}
+{'Ticker': 'SEE', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 6658658304, 'earningsGrowth': 0.085, 'environmentScore': 15.83, 'socialScore': 1.52, 'governanceScore': 3.46}
+{'Ticker': 'SRE', 'sector': 'Utilities', 'country': 'United States', 'marketCap': 44474867712, 'earningsGrowth': 0.292, 'environmentScore': 12.09, 'socialScore': 7.14, 'governanceScore': 5.5}
+{'Ticker': 'NOW', 'sector': 'Technology', 'country': 'United States', 'marketCap': 69035524096, 'earningsGrowth': -0.657, 'environmentScore': 1.41, 'socialScore': 8.39, 'governanceScore': 5.94}
+{'Ticker': 'SHW', 'sector': 'Basic Materials', 'country': 'United States', 'marketCap': 52277211136, 'earningsGrowth': -0.087, 'environmentScore': 12.93, 'socialScore': 8.99, 'governanceScore': 6.72}
+{'Ticker': 'SPG', 'sector': 'Real Estate', 'country': 'United States', 'marketCap': 35915964416, 'earningsGrowth': -0.196, 'environmentScore': 3.83, 'socialScore': 3.99, 'governanceScore': 6.38}
+{'Ticker': 'SWKS', 'sector': 'Technology', 'country': 'United States', 'marketCap': 12938364928, 'earningsGrowth': -0.178, 'environmentScore': 11.63, 'socialScore': 8.93, 'governanceScore': 7.6}
+{'Ticker': 'SNA', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 11220936704, 'earningsGrowth': 0.136, 'environmentScore': 9.33, 'socialScore': 13.91, 'governanceScore': 7.56}
+{'Ticker': 'SO', 'sector': 'Utilities', 'country': 'United States', 'marketCap': 67307896832, 'earningsGrowth': 1.943, 'environmentScore': 14.79, 'socialScore': 11, 'governanceScore': 7.3}
+{'Ticker': 'LUV', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 19391297536, 'earningsGrowth': 1.105, 'environmentScore': 11.29, 'socialScore': 14.89, 'governanceScore': 6.21}
+{'Ticker': 'SWK', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 12476914688, 'earningsGrowth': -0.794, 'environmentScore': 5.83, 'socialScore': 12.34, 'governanceScore': 7.59}
+{'Ticker': 'SBUX', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 0, 'earningsGrowth': 0.036, 'environmentScore': 6.11, 'socialScore': 14.5, 'governanceScore': 4.21}
+{'Ticker': 'STT', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 22343587840, 'earningsGrowth': -0.077, 'environmentScore': 1.96, 'socialScore': 11.2, 'governanceScore': 9.11}
+{'Ticker': 'STE', 'sector': 'Healthcare', 'country': 'Ireland', 'marketCap': 16587813888, 'earningsGrowth': -0.497, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'SYK', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 79118270464, 'earningsGrowth': 0.11, 'environmentScore': 3.72, 'socialScore': 13.96, 'governanceScore': 10.84}
+{'Ticker': 'SIVB', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 18774581248, 'earningsGrowth': -0.384, 'environmentScore': 2.05, 'socialScore': 11.11, 'governanceScore': 15.18}
+{'Ticker': 'SYF', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 15136868352, 'earningsGrowth': -0.245, 'environmentScore': 0.13, 'socialScore': 9.89, 'governanceScore': 7.19}
+{'Ticker': 'SNPS', 'sector': 'Technology', 'country': 'United States', 'marketCap': 42449620992, 'earningsGrowth': 0.126, 'environmentScore': 3.18, 'socialScore': 6.2, 'governanceScore': 4.07}
+{'Ticker': 'SYY', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 37368336384, 'earningsGrowth': 2.418, 'environmentScore': 2.79, 'socialScore': 4.7, 'governanceScore': 4.57}
+{'Ticker': 'TMUS', 'sector': 'Communication Services', 'country': 'United States', 'marketCap': 164931354624, 'earningsGrowth': 0, 'environmentScore': 5.03, 'socialScore': 13.35, 'governanceScore': 7.69}
+{'Ticker': 'TROW', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 22187780096, 'earningsGrowth': -0.578, 'environmentScore': 2.36, 'socialScore': 9.3, 'governanceScore': 5.39}
+{'Ticker': 'TTWO', 'sector': 'Communication Services', 'country': 'United States', 'marketCap': 19639533568, 'earningsGrowth': 0, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'TPR', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 7326853632, 'earningsGrowth': 0.067, 'environmentScore': 1.29, 'socialScore': 7.11, 'governanceScore': 5.11}
+{'Ticker': 'TGT', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 67055718400, 'earningsGrowth': -0.893, 'environmentScore': 2.04, 'socialScore': 7.63, 'governanceScore': 5.06}
+{'Ticker': 'TEL', 'sector': 'Technology', 'country': 'Switzerland', 'marketCap': 34389090304, 'earningsGrowth': 0.057, 'environmentScore': 6.42, 'socialScore': 4.87, 'governanceScore': 4.64}
+{'Ticker': 'TDY', 'sector': 'Technology', 'country': 'United States', 'marketCap': 15516869632, 'earningsGrowth': 1.426, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'TFX', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 9177960448, 'earningsGrowth': 0.267, 'environmentScore': 4.83, 'socialScore': 16.12, 'governanceScore': 8.8}
+{'Ticker': 'TER', 'sector': 'Technology', 'country': 'United States', 'marketCap': 11189531648, 'earningsGrowth': -0.341, 'environmentScore': 6.27, 'socialScore': 4.95, 'governanceScore': 4.64}
+{'Ticker': 'TSLA', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 642330001408, 'earningsGrowth': 0.907, 'environmentScore': 2.78, 'socialScore': 16.16, 'governanceScore': 9.61}
+{'Ticker': 'TXN', 'sector': 'Technology', 'country': 'United States', 'marketCap': 135539294208, 'earningsGrowth': 0.195, 'environmentScore': 8.84, 'socialScore': 5.06, 'governanceScore': 6.03}
+{'Ticker': 'TXT', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 13190232064, 'earningsGrowth': 0.236, 'environmentScore': 11.05, 'socialScore': 16.23, 'governanceScore': 6.53}
+{'Ticker': 'COO', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 12286286848, 'earningsGrowth': 0.081, 'environmentScore': 2.7, 'socialScore': 10.76, 'governanceScore': 6.03}
+{'Ticker': 'HIG', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 22037856256, 'earningsGrowth': -0.474, 'environmentScore': 1.5, 'socialScore': 5.99, 'governanceScore': 8.68}
+{'Ticker': 'HSY', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 45879152640, 'earningsGrowth': 0.055, 'environmentScore': 11.3, 'socialScore': 10.67, 'governanceScore': 5.24}
+{'Ticker': 'MOS', 'sector': 'Basic Materials', 'country': 'United States', 'marketCap': 17357412352, 'earningsGrowth': 6.78, 'environmentScore': 16.3, 'socialScore': 12.03, 'governanceScore': 8.55}
+{'Ticker': 'TRV', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 40173268992, 'earningsGrowth': -0.38, 'environmentScore': 0.99, 'socialScore': 9.45, 'governanceScore': 10.08}
+{'Ticker': 'DIS', 'sector': 'Communication Services', 'country': 'United States', 'marketCap': 172188008448, 'earningsGrowth': 0.548, 'environmentScore': 0.06, 'socialScore': 7.92, 'governanceScore': 6.9}
+{'Ticker': 'TMO', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 197089443840, 'earningsGrowth': -0.085, 'environmentScore': 1.47, 'socialScore': 5.6, 'governanceScore': 6.46}
+{'Ticker': 'TJX', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 73784729600, 'earningsGrowth': 0.078, 'environmentScore': 1.89, 'socialScore': 7.42, 'governanceScore': 5.12}
+{'Ticker': 'TSCO', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 22053478400, 'earningsGrowth': 0.107, 'environmentScore': 3.04, 'socialScore': 6.58, 'governanceScore': 4.14}
+{'Ticker': 'TT', 'sector': 'Industrials', 'country': 'Ireland', 'marketCap': 32903813120, 'earningsGrowth': 0.133, 'environmentScore': 7.11, 'socialScore': 3.84, 'governanceScore': 5.16}
+{'Ticker': 'TDG', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 27891822592, 'earningsGrowth': -0.244, 'environmentScore': 12.84, 'socialScore': 17.85, 'governanceScore': 8.29}
+{'Ticker': 'TRMB', 'sector': 'Technology', 'country': 'United States', 'marketCap': 12952460288, 'earningsGrowth': 0.218, 'environmentScore': 3.17, 'socialScore': 3.72, 'governanceScore': 6.09}
+{'Ticker': 'TFC', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 57034772480, 'earningsGrowth': -0.06, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'TWTR', 'sector': 'Communication Services', 'country': 'United States', 'marketCap': 38606663680, 'earningsGrowth': 0, 'environmentScore': 2.55, 'socialScore': 10.06, 'governanceScore': 6.65}
+{'Ticker': 'TYL', 'sector': 'Technology', 'country': 'United States', 'marketCap': 13132684288, 'earningsGrowth': 0.541, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'TSN', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 23318214656, 'earningsGrowth': 0.01, 'environmentScore': 14.31, 'socialScore': 12.39, 'governanceScore': 9.97}
+{'Ticker': 'USB', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 63404523520, 'earningsGrowth': -0.23, 'environmentScore': 1.71, 'socialScore': 15.85, 'governanceScore': 12.49}
+{'Ticker': 'UDR', 'sector': 'Real Estate', 'country': 'United States', 'marketCap': 11640852480, 'earningsGrowth': -0.722, 'environmentScore': 3.2, 'socialScore': 3.83, 'governanceScore': 5.28}
+{'Ticker': 'ULTA', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 20193564672, 'earningsGrowth': 0.25, 'environmentScore': 3.83, 'socialScore': 7.23, 'governanceScore': 4.4}
+{'Ticker': 'UAA', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 2989635072, 'earningsGrowth': -0.87, 'environmentScore': 1.79, 'socialScore': 8.5, 'governanceScore': 6.03}
+{'Ticker': 'UA', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 3189967616, 'earningsGrowth': 0, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'UNP', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 121017778176, 'earningsGrowth': 0.077, 'environmentScore': 9.43, 'socialScore': 12.14, 'governanceScore': 3.69}
+{'Ticker': 'UAL', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 11589645312, 'earningsGrowth': 0, 'environmentScore': 11.19, 'socialScore': 13.61, 'governanceScore': 5.29}
+{'Ticker': 'UPS', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 140522881024, 'earningsGrowth': 0.066, 'environmentScore': 4.58, 'socialScore': 9.55, 'governanceScore': 5.38}
+{'Ticker': 'URI', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 20053248000, 'earningsGrowth': 0.716, 'environmentScore': 5.89, 'socialScore': 6.57, 'governanceScore': 5.99}
+{'Ticker': 'UNH', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 483292020736, 'earningsGrowth': 0.197, 'environmentScore': 0.03, 'socialScore': 11.62, 'governanceScore': 5.89}
+{'Ticker': 'UHS', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 7357701120, 'earningsGrowth': -0.42, 'environmentScore': 3.7, 'socialScore': 20.68, 'governanceScore': 8.51}
+{'Ticker': 'VLO', 'sector': 'Energy', 'country': 'United States', 'marketCap': 46656364544, 'earningsGrowth': 28.667, 'environmentScore': 18.18, 'socialScore': 7.23, 'governanceScore': 4.65}
+{'Ticker': 'VTR', 'sector': 'Real Estate', 'country': 'United States', 'marketCap': 14386302976, 'earningsGrowth': 0, 'environmentScore': 2.75, 'socialScore': 4.28, 'governanceScore': 5.73}
+{'Ticker': 'VRSN', 'sector': 'Technology', 'country': 'United States', 'marketCap': 18675824640, 'earningsGrowth': 0.174, 'environmentScore': 4.74, 'socialScore': 10.77, 'governanceScore': 5.84}
+{'Ticker': 'VRSK', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 26187206656, 'earningsGrowth': 0.319, 'environmentScore': 0.11, 'socialScore': 13.5, 'governanceScore': 6.41}
+{'Ticker': 'VZ', 'sector': 'Communication Services', 'country': 'United States', 'marketCap': 152785453056, 'earningsGrowth': -0.116, 'environmentScore': 3.88, 'socialScore': 8.92, 'governanceScore': 5.69}
+{'Ticker': 'VRTX', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 75196342272, 'earningsGrowth': 11.1, 'environmentScore': 0.71, 'socialScore': 15.2, 'governanceScore': 7.15}
+{'Ticker': 'VFC', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 11246902272, 'earningsGrowth': 0, 'environmentScore': 0.94, 'socialScore': 6.83, 'governanceScore': 5.07}
+{'Ticker': 'VIAC', 'sector': 0, 'country': 0, 'marketCap': 0, 'earningsGrowth': 0, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'VTRS', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 11580138496, 'earningsGrowth': 0, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'V', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 384855212032, 'earningsGrowth': 0.359, 'environmentScore': 0.71, 'socialScore': 7.84, 'governanceScore': 7.52}
+{'Ticker': 'VNO', 'sector': 'Real Estate', 'country': 'United States', 'marketCap': 4518961664, 'earningsGrowth': 0.042, 'environmentScore': 2.75, 'socialScore': 4.25, 'governanceScore': 5.97}
+{'Ticker': 'VMC', 'sector': 'Basic Materials', 'country': 'United States', 'marketCap': 19727824896, 'earningsGrowth': -0.039, 'environmentScore': 15.61, 'socialScore': 4.56, 'governanceScore': 8.85}
+{'Ticker': 'WRB', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 18595637248, 'earningsGrowth': -0.247, 'environmentScore': 1.95, 'socialScore': 7.83, 'governanceScore': 12.16}
+{'Ticker': 'GWW', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 25495119872, 'earningsGrowth': 0.684, 'environmentScore': 3.41, 'socialScore': 5.48, 'governanceScore': 5.72}
+{'Ticker': 'WAB', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 15293869056, 'earningsGrowth': 0.379, 'environmentScore': 4.52, 'socialScore': 11.69, 'governanceScore': 7.04}
+{'Ticker': 'WBA', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 28746385408, 'earningsGrowth': 0, 'environmentScore': 2.03, 'socialScore': 11.52, 'governanceScore': 4.73}
+{'Ticker': 'WMT', 'sector': 'Consumer Defensive', 'country': 'United States', 'marketCap': 354018295808, 'earningsGrowth': 0.237, 'environmentScore': 4.4, 'socialScore': 13.92, 'governanceScore': 6.31}
+{'Ticker': 'WM', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 64726032384, 'earningsGrowth': 0.699, 'environmentScore': 8.22, 'socialScore': 5.24, 'governanceScore': 3.28}
+{'Ticker': 'WAT', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 16297621504, 'earningsGrowth': 0.011, 'environmentScore': 1.37, 'socialScore': 9.4, 'governanceScore': 6.24}
+{'Ticker': 'WEC', 'sector': 'Utilities', 'country': 'United States', 'marketCap': 26591172608, 'earningsGrowth': 0.046, 'environmentScore': 14.68, 'socialScore': 7.4, 'governanceScore': 5.43}
+{'Ticker': 'WFC', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 163745972224, 'earningsGrowth': -0.464, 'environmentScore': 1.94, 'socialScore': 15.4, 'governanceScore': 15.51}
+{'Ticker': 'WELL', 'sector': 'Real Estate', 'country': 'United States', 'marketCap': 25176305664, 'earningsGrowth': -0.18, 'environmentScore': 3.87, 'socialScore': 3.22, 'governanceScore': 4.92}
+{'Ticker': 'WST', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 18336946176, 'earningsGrowth': 0.004, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'WDC', 'sector': 'Technology', 'country': 'United States', 'marketCap': 10507928576, 'earningsGrowth': -0.873, 'environmentScore': 1.48, 'socialScore': 3.91, 'governanceScore': 5.69}
+{'Ticker': 'WU', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 5628098048, 'earningsGrowth': 0.682, 'environmentScore': 1.35, 'socialScore': 6.43, 'governanceScore': 5.93}
+{'Ticker': 'WRK', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 8326734848, 'earningsGrowth': -0.643, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'WY', 'sector': 'Real Estate', 'country': 'United States', 'marketCap': 21722304512, 'earningsGrowth': -0.227, 'environmentScore': 10.48, 'socialScore': 3.29, 'governanceScore': 3.78}
+{'Ticker': 'WHR', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 8456047104, 'earningsGrowth': 0, 'environmentScore': 4.76, 'socialScore': 7.08, 'governanceScore': 3.96}
+{'Ticker': 'WMB', 'sector': 'Energy', 'country': 'United States', 'marketCap': 35734032384, 'earningsGrowth': -0.114, 'environmentScore': 9.98, 'socialScore': 10.43, 'governanceScore': 3.08}
+{'Ticker': 'WLTW', 'sector': 0, 'country': 0, 'marketCap': 0, 'earningsGrowth': 0, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'WYNN', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 6517327872, 'earningsGrowth': 0, 'environmentScore': 3.55, 'socialScore': 11.98, 'governanceScore': 10.98}
+{'Ticker': 'XEL', 'sector': 'Utilities', 'country': 'United States', 'marketCap': 31706468352, 'earningsGrowth': 0.04, 'environmentScore': 12.63, 'socialScore': 6.57, 'governanceScore': 4.5}
+{'Ticker': 'XLNX', 'sector': 0, 'country': 0, 'marketCap': 0, 'earningsGrowth': 0, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'XYL', 'sector': 'Industrials', 'country': 'United States', 'marketCap': 15544013824, 'earningsGrowth': -0.062, 'environmentScore': 3.3, 'socialScore': 7.58, 'governanceScore': 5.08}
+{'Ticker': 'YUM', 'sector': 'Consumer Cyclical', 'country': 'United States', 'marketCap': 31297808384, 'earningsGrowth': 0.271, 'environmentScore': 4.46, 'socialScore': 11.65, 'governanceScore': 4.44}
+{'Ticker': 'ZBRA', 'sector': 'Technology', 'country': 'United States', 'marketCap': 13660181504, 'earningsGrowth': -0.092, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'ZBH', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 22334355456, 'earningsGrowth': -0.928, 'environmentScore': 4.46, 'socialScore': 14.6, 'governanceScore': 8.24}
+{'Ticker': 'ZION', 'sector': 'Financial Services', 'country': 'United States', 'marketCap': 7845054976, 'earningsGrowth': -0.38, 'environmentScore': 5, 'socialScore': 5, 'governanceScore': 5}
+{'Ticker': 'ZTS', 'sector': 'Healthcare', 'country': 'United States', 'marketCap': 68792516608, 'earningsGrowth': 0.077, 'environmentScore': 1.38, 'socialScore': 8.15, 'governanceScore': 8.95}

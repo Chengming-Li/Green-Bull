@@ -1,0 +1,2 @@
+{0: 0, 'Utilities': 1, 'Financial Services': 2, 'Industrials': 3, 'Healthcare': 4, 'Consumer Cyclical': 5, 'Consumer Defensive': 6, 'Energy': 7, 'Real Estate': 8, 'Technology': 9, 'Communication Services': 10, 'Basic Materials': 11}
+{0: 0, 'Bermuda': 1, 'Switzerland': 2, 'Netherlands': 3, 'Ireland': 4, 'United Kingdom': 5, 'United States': 6}
